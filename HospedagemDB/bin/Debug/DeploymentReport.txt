@@ -1,0 +1,56 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Chale] (Table)
+       [dbo].[Chale].[IX_Chale_Capacidade] (Index)
+       [dbo].[ChaleItem] (Table)
+       [dbo].[Cliente] (Table)
+       [dbo].[Cliente].[IX_Cliente_Rg] (Index)
+       [dbo].[Hospedagem] (Table)
+       [dbo].[HospedagemServico] (Table)
+       [dbo].[Item] (Table)
+       [dbo].[Item].[IX_Item_Nome] (Index)
+       [dbo].[Servico] (Table)
+       [dbo].[Telefone] (Table)
+       Default Constraint: unnamed constraint on [dbo].[Hospedagem] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Hospedagem] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[HospedagemServico] (Default Constraint)
+       [dbo].[FK_Hospedagem_Chale] (Foreign Key)
+       [dbo].[FK_Hospedagem_Cliente] (Foreign Key)
+       [dbo].[FK_Telefone_Cliente] (Foreign Key)
+       [dbo].[spChale_Delete] (Procedure)
+       [dbo].[spChale_Get] (Procedure)
+       [dbo].[spChale_GetAll] (Procedure)
+       [dbo].[spChale_Insert] (Procedure)
+       [dbo].[spChale_Update] (Procedure)
+       [dbo].[spCliente_Delete] (Procedure)
+       [dbo].[spCliente_Get] (Procedure)
+       [dbo].[spCliente_GetAll] (Procedure)
+       [dbo].[spCliente_Insert] (Procedure)
+       [dbo].[spCliente_Update] (Procedure)
+       [dbo].[spItem_Delete] (Procedure)
+       [dbo].[spItem_Get] (Procedure)
+       [dbo].[spItem_GetAll] (Procedure)
+       [dbo].[spItem_Insert] (Procedure)
+       [dbo].[spItem_Update] (Procedure)
+       [dbo].[spServico_Delete] (Procedure)
+       [dbo].[spServico_Get] (Procedure)
+       [dbo].[spServico_GetAll] (Procedure)
+       [dbo].[spServico_Insert] (Procedure)
+       [dbo].[spServico_Update] (Procedure)
+       [dbo].[spTelefone_Delete] (Procedure)
+       [dbo].[spTelefone_Get] (Procedure)
+       [dbo].[spTelefone_GetAll] (Procedure)
+       [dbo].[spTelefone_Insert] (Procedure)
+       [dbo].[spTelefone_Update] (Procedure)
+
+** Supporting actions

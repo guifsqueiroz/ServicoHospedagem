@@ -1,0 +1,10 @@
+C:\Servico Hospedagem\MinimalApi-Stored Procedure\HospedagemDB\bin\Debug\HospedagemDB.dacpac
+C:\Servico Hospedagem\MinimalApi-Stored Procedure\HospedagemDB\bin\Debug\HospedagemDB.dll
+C:\Servico Hospedagem\MinimalApi-Stored Procedure\HospedagemDB\bin\Debug\HospedagemDB.pdb
+C:\Servico Hospedagem\MinimalApi-Stored Procedure\HospedagemDB\obj\Debug\HospedagemDB.sqlproj.AssemblyReference.cache
+C:\Servico Hospedagem\MinimalApi-Stored Procedure\HospedagemDB\obj\Debug\Model.xml
+C:\Servico Hospedagem\MinimalApi-Stored Procedure\HospedagemDB\obj\Debug\refactor.xml
+C:\Servico Hospedagem\MinimalApi-Stored Procedure\HospedagemDB\obj\Debug\postdeploy.sql
+C:\Servico Hospedagem\MinimalApi-Stored Procedure\HospedagemDB\obj\Debug\predeploy.sql
+C:\Servico Hospedagem\MinimalApi-Stored Procedure\HospedagemDB\obj\Debug\HospedagemDB.dll
+C:\Servico Hospedagem\MinimalApi-Stored Procedure\HospedagemDB\obj\Debug\HospedagemDB.pdb
